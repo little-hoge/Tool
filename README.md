@@ -1,5 +1,6 @@
 
 # 目次
+[Wiki](https://github.com/little-hoge/Tool/wiki)
 
 ## バッチファイル  
 |  ファイル名 | 説明/使用法  |
