@@ -21,4 +21,11 @@
 ## アドイン  
 |  ファイル名 | 説明/使用法  |
 | ---- | ---- |
-|  [汎用](https://github.com/little-hoge/Tool/blob/master/addin/%E6%B1%8E%E7%94%A8.xlam) |  VBAマクロショートカットキーに割り振りアドイン [使い方](https://github.com/little-hoge/Tool/wiki/EXCEL#%E3%82%A2%E3%83%89%E3%82%A4%E3%83%B3)  |
+|  [汎用](https://github.com/little-hoge/Tool/blob/master/addin/%E6%B1%8E%E7%94%A8.xlam) | ショートカットキーを追加するアドイン [設定方法](https://github.com/little-hoge/Tool/wiki/EXCEL#%E3%82%A2%E3%83%89%E3%82%A4%E3%83%B3)  |
+
+|  割当キー | 動作説明  |
+| ---- | ---- |
+| F1 |  各シート先頭設定  |
+| Ctrl＋F1 |  選択ハイライト  |
+| Shift＋Ctrl＋C |  選択セル背景色変更(無→黄→橙→灰→無)  |
+| Shift＋Ctrl＋； |  文字列型時間入力  |
