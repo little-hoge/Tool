@@ -17,7 +17,7 @@
 ## アドイン  
 |  ファイル名 | 説明/使用法  |
 | ---- | ---- |
-|  [汎用](https://github.com/little-hoge/Tool/blob/master/addin/%E6%B1%8E%E7%94%A8.xlam) | ショートカットキーを追加するアドイン [設定方法](https://github.com/little-hoge/Tool/wiki/EXCEL#%E3%82%A2%E3%83%89%E3%82%A4%E3%83%B3)  |
+|  [汎用](https://github.com/little-hoge/Tool/raw/master/addin/%E6%B1%8E%E7%94%A8.xlam) | ショートカットキーを追加するアドイン [設定方法](https://github.com/little-hoge/Tool/wiki/EXCEL#%E3%82%A2%E3%83%89%E3%82%A4%E3%83%B3)  |
 
 |  割当キー | 動作説明  |
 | ---- | ---- |
